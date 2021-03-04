@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou Tiago Esdras</h1>
-<h3 align="center">Natural de Belo Horizonte - MG, Brasil, e estou na caminhada de me tornar um Desenvolvedor FullStack 👨‍💻 e estou em busca da minha primeira oportunidade na área.</h3>
+<h3 align="center">Natural de Belo Horizonte - MG, Brasil, estudando para me tornar um Desenvolvedor FullStack 👨‍💻 e estou em busca da minha primeira oportunidade na área.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TiagoEsdras&label=Profile%20views&color=0e75b6&style=flat" alt="TiagoEsdras" /> </p>
 
