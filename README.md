@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TiagoEsdras&label=Profile%20views&color=0e75b6&style=flat" alt="TiagoEsdras" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TiagoEsdras" alt="TiagoEsdras" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TiagoEsdras&theme=juicyfresh&row=1&column=6" alt="TiagoEsdras" /></a> </p>
 
 - 🎓 Cursando: **Desenvolvimento de Software Web | TRYBE**
 
