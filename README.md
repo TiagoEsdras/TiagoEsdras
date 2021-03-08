@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou Tiago Esdras</h1>
-<h3 align="center">Natural de Belo Horizonte - MG, Brasil, estudando para me tornar um Desenvolvedor FullStack 👨‍💻 e estou em busca da minha primeira oportunidade na área.</h3>
+<h3 align="center"> 📍 sou de Belo Horizonte - MG. Atualmente, cursando Desenvolvimento de Software Web na Trybe (1500 horas) 👨‍💻, onde venho desenvolvendo inúmeros projetos voltados para front-end utilizando as tecnologias Javascript e React, e em breve dando foco para desenvolvimento para back-end em Node.js. Estou fazendo uma transição de carreira e por isso busco a minha primeira experiência profissional na área de TI. Embora não tenho experiências na área de TI, estou atuando há mais de 10 anos no mercado, e muito animado para essa nova etapa da minha vida.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TiagoEsdras&label=Profile%20views&color=0e75b6&style=flat" alt="TiagoEsdras" /> </p>
 
