@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou Tiago Esdras</h1>
-<h3 align="center"> 📍 sou de Belo Horizonte - MG. Atualmente, cursando Desenvolvimento de Software Web na Trybe (1500 horas) 👨‍💻, onde venho desenvolvendo inúmeros projetos voltados para front-end utilizando as tecnologias Javascript e React, e em breve dando foco para desenvolvimento para back-end em Node.js. Estou fazendo uma transição de carreira e por isso busco a minha primeira experiência profissional na área de TI. Embora não tenho experiências na área de TI, estou atuando há mais de 10 anos no mercado, e muito animado para essa nova etapa da minha vida.</h3>
+<h4 align="center"> 📍 sou de Belo Horizonte - MG. Atualmente, cursando Desenvolvimento de Software Web na Trybe (1500 horas) 👨‍💻, onde venho desenvolvendo inúmeros projetos voltados para front-end e back-end. Estou em busca da minha primeira experiência na área de TI como Desenvolvedor .NET Jr</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TiagoEsdras&label=Profile%20views&color=0e75b6&style=flat" alt="TiagoEsdras" /> </p>
 
@@ -18,6 +18,9 @@
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <p align="left">
+  <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C#" width="40" height="40"/> 
+  </a>
   <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML" width="40" height="40"/>
   </a>
@@ -32,10 +35,7 @@
   </a> 
   <a href="https://nodejs.org" target="_blank"> 
     <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Nodejs" width="40" height="40"/> 
-  </a>
-  <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C#" width="40" height="40"/> 
-  </a>
+  </a>  
   <a href="https://getbootstrap.com" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="Bootstrap" width="40" height="40"/>
   </a>
@@ -59,6 +59,9 @@
   </a>
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+  <a href="https://docs.microsoft.com/pt-br/sql/sql-server/?view=sql-server-ver15" target="_blank">
+    <img src="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png" alt="SQL Server" width="40" height="40"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" width="40" height="40"/>
