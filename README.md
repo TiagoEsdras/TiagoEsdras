@@ -13,7 +13,7 @@
 
 <h3 align="left">Veja meu perfil no Linkedin</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tiagoesdras/" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1614870053~hmac=f1dd1db657359b4739b0170e0a1a0544" alt="https://www.linkedin.com/in/tiagoesdras/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tiagoesdras/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin.svg" alt="https://www.linkedin.com/in/tiagoesdras/" height="40"></a>
 </p>
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
