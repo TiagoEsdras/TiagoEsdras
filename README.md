@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TiagoEsdras&theme=juicyfresh&row=1&column=6" alt="TiagoEsdras" /></a> </p>
 
-- 🎓 Cursando: **Desenvolvimento de Software Web | TRYBE**
+- 🎓 Formação: **Desenvolvimento de Software Web | TRYBE**
 
 - 💡 Conhecimentos: **C#, POO, .NET, Asp .Net, RestAPI, SQL Server, MySQL, Entity Framework, TDD, HTML, CSS, JavaScript, React.js, Redux, CentextAPI, Angular**
 
