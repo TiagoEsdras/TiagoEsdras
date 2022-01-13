@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou Tiago Esdras</h1>
-<h4 align="center"> 📍 sou de Belo Horizonte - MG. Atualmente, cursando Desenvolvimento de Software Web na Trybe (1500 horas) 👨‍💻, onde venho desenvolvendo inúmeros projetos voltados para front-end e back-end. Estou em busca da minha primeira experiência na área de TI como Desenvolvedor .NET Jr</h4>
+<h4 align="center"> 📍 sou de Belo Horizonte - MG. Formado em Desenvolvimento de Software Web na Trybe (1500 horas) 👨‍💻, desenvolvi inúmeros projetos voltados para front-end e back-end. Atualmente estou aprofundando meus conhecimentos com um curso de desenvolvimento Full Stack com .NET Web Api e Angular 11 + Entity Framework</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TiagoEsdras&label=Profile%20views&color=0e75b6&style=flat" alt="TiagoEsdras" /> </p>
 
