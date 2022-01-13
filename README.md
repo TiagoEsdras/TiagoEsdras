@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou Tiago Esdras</h1>
-<h4 align="center"> 📍 sou de Belo Horizonte - MG. Sou formado em Desenvolvimento de Software Web na Trybe (1500 horas) 👨‍💻, curso que tive a oportunidade de desenvolver inúmeros projetos voltados para front-end e back-end, como também no aperfeiçoamento de softskills. Atualmente estou aprofundando meus conhecimentos com cursos de Desenvolvimento Full Stack com .NET Web Api e Angular 11 + Entity Framework, Clean Architecture, TDD com xUnit entre outros</h4>
+<h4 align="center"> 📍 sou de Belo Horizonte - MG. Formado em Desenvolvimento de Software Web na Trybe (1500 horas) 👨‍💻, curso que tive a oportunidade de desenvolver inúmeros projetos voltados para front-end e back-end, como também no aperfeiçoamento de softskills. Atualmente estou aprofundando meus conhecimentos com cursos de Desenvolvimento Full Stack com .NET Web Api e Angular 11 + Entity Framework, Clean Architecture, TDD com xUnit entre outros.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TiagoEsdras&label=Profile%20views&color=0e75b6&style=flat" alt="TiagoEsdras" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🎓 Formação: **Desenvolvimento de Software Web | TRYBE**
 
-- 💡 Conhecimentos: **C#, POO, .NET, Asp .Net, RestAPI, SQL Server, MySQL, Entity Framework, TDD, HTML, CSS, JavaScript, React.js, Redux, CentextAPI, Angular**
+- 💡 Conhecimentos: **C#, POO, .NET, Asp .Net, RestAPI, SQL Server, MySQL, Entity Framework, TDD, HTML, CSS, JavaScript, React.js, Redux, CentextAPI, Angular entre outras.**
 
 - 📧 Contato: **tiagoesdrasvieira@gmail.com**
 
