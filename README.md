@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tiago Esdras</h1>
-<h4 align="justify"> Technology has increasingly impacted people's daily lives. Being able to participate in this transformation is what made me fall in love for software development. Since then, I have constantly sought to deepen my knowledge, focusing my studies on .net technology.
-
+<h4 align="justify">
 I'm a skilled .NET Developer with over 5 years of experience in software development for the Financial and Insurance sectors. I focus on delivering high-performance, innovative, and efficient solutions. Specializing in transforming complex ideas into scalable, impactful systems, I leverage the power of the .NET and C# ecosystem to drive business value.
 
 My expertise includes developing robust RESTful APIs and implementing microservices in event-driven architecture, using RabbitMQ and ServiceBus for asynchronous communication. I follow best practices such as SOLID, clean architecture, and design patterns to ensure high-quality software. I place great value on consistency and quality in my deliveries, applying unit tests with xUnit to ensure reliable and well-tested code. I also have experience with Docker/Kubernetes, AWS and CI/CD with Azure DevOps, optimizing pipelines and promoting continuous integration.
