@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Tiago Esdras</h1>
 <h4 align="justify"> Technology has increasingly impacted people's daily lives. Being able to participate in this transformation is what made me fall in love for software development. Since then, I have constantly sought to deepen my knowledge, focusing my studies on .net technology.
 
-+2 years of experience in software development, I was able to contribute significantly to projects as .Net Developer. I was responsible for building and consuming RESTful API's, and creating and managing microservices with synchronous/asynchronous communication using RabbitMQ - Event Driven Architecture. With a accurate analytical capacity, I'm always looking for the quality of the software written through unit tests (TDD), also following Design Patterns, Clean Architecture and SOLID.
+I'm a skilled .NET Developer with over 5 years of experience in software development for the Financial and Insurance sectors. I focus on delivering high-performance, innovative, and efficient solutions. Specializing in transforming complex ideas into scalable, impactful systems, I leverage the power of the .NET and C# ecosystem to drive business value.
 
-I also have experience with Docker, CI/CD Devops, and agile methodologies - SCRUM.</h4>
+My expertise includes developing robust RESTful APIs and implementing microservices in event-driven architecture, using RabbitMQ and ServiceBus for asynchronous communication. I follow best practices such as SOLID, clean architecture, and design patterns to ensure high-quality software. I place great value on consistency and quality in my deliveries, applying unit tests with xUnit to ensure reliable and well-tested code. I also have experience with Docker/Kubernetes, AWS and CI/CD with Azure DevOps, optimizing pipelines and promoting continuous integration.
+
+In addition to my technical skills, I stand out for my ability to collaborate and communicate effectively, which is essential for working in integrated teams. I am proactive, with a technical and analytical approach to problem-solving, and I enjoy tackling complex challenges, always striving for the best solution for each project. I am constantly seeking new opportunities to apply and expand my knowledge, believing that innovation happens through collaborative work and well-grounded solutions.
+
+Primary technologies: .NET, C#, RESTful APIs, Microservices, Dapper, Entity Framework, SQL Server, MongoDB, Redis, Doker, Kubernetes, Azure DevOps, AWS (Lambda, S3, SQS, CloudWatch), Azure Service Bus, RabbitMQ, OpenSearch, Serilog, Dynatrace, FluentValidation, xUnit, OAuth 2.0, JWT, Identity, Angular, React.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TiagoEsdras&label=Profile%20views&color=0e75b6&style=flat" alt="TiagoEsdras" /> </p>
 
